@@ -1,6 +1,5 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=220&section=header&text=Al%20Amin%20Hossain%20Tanvir&fontSize=35&fontColor=ffffff&desc=MERN%20Stack%20Developer%20|%20React%20%26%20Next.js%20Enthusiast&descAlignY=65" width="100%" />
-
+![logo](https://github.com/alminsfd/alminsfd/blob/main/Al%20Amin%20Hossain%20Tanvir.png)
 <h1 align="center">Hi 👋, I'm Al Amin Hossain Tanvir</h1>
 <h3 align="center">MERN Stack Developer</h3>
 
