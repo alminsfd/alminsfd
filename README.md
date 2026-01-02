@@ -66,17 +66,20 @@ Always eager to grow as a developer and contribute to meaningful projects.
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alminsfd&show_icons=true&theme=tokyonight" />
-</p>
+
+
+![Stats](https://github-readme-stats.vercel.app/api?username=alminsfd&show_icons=true&theme=radical)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alminsfd&layout=compact)
+
+![Streak](https://streak-stats.demolab.com?user=alminsfd)
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alminsfd&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alminsfd&layout=compact&theme=tokyonight" />
-</p>
+
 
 ---
 
